@@ -60,7 +60,7 @@ If i had a few more hours to work on this project, I would have the sequence be 
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright [Kevin Xie]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
